@@ -5,7 +5,6 @@ for i in array:
         max_=i
 min_ =array[0]       
 for j in array:
-    
     if min_<j:
         continue
     else:
